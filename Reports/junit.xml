@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="185.580761">
+    <testcase classname="To validate the login function using list" name="To validate the login page" time="72.159691">
+        <system-out><![CDATA[When User has to click the Sign in button...................................passed
+And USer has to pass the mobile number......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the login function using list" name="To Validate login page using list" time="22.470026">
+        <system-out><![CDATA[When User click the sign in button..........................................passed
+And User pass the mobile number in to the mobile number field...............passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the login function using list" name="TO validate login with valid phone number" time="26.808356">
+        <system-out><![CDATA[When To click the sign in button............................................passed
+And To pass the valid mobile number in to the"9688634074" mobile number field.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the login function using list" name="TO validate login with valid phone number 2" time="35.743586">
+        <system-out><![CDATA[When To click the sign in button............................................passed
+And To pass the valid mobile number in to the"9876543210" mobile number field.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the login function using list" name="TO validate login with valid phone number 3" time="28.399102">
+        <system-out><![CDATA[When To click the sign in button............................................passed
+And To pass the valid mobile number in to the"8521478520" mobile number field.passed
+]]></system-out>
+    </testcase>
+</testsuite>
