@@ -12,7 +12,7 @@ public class Hooks  extends baseclass{
 	}
 	@After
 	public void postcondition() {
-//		closeEntireBrowser();
+		closeEntireBrowser();
 	}
 
 }
